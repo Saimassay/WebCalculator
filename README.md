@@ -1,1 +1,2 @@
 # WebCalculator
+![](calculator.png)
